@@ -1,0 +1,8 @@
+{
+    "name": "Sandstrom Server",
+    "description": "The main API and static files server of Sandstrom Toolset",
+    "repository": "https://github.com/Ascalonic/sandstrom-server",
+    "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+    "keywords": ["sandstrom", "ascalonic", "media"],
+    "image": "heroku/nodejs"
+  }
